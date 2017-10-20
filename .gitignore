@@ -1,0 +1,9 @@
+# JetBrains software
+.idea/
+*.iml
+
+
+# logs
+log/
+*.log
+
